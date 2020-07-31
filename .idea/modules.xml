@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Rspec-Capybara-Automation-Starter-Project.iml" filepath="$PROJECT_DIR$/.idea/Rspec-Capybara-Automation-Starter-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressable-2.7.0.iml" filepath="$PROJECT_DIR$/.idea/modules/addressable-2.7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/childprocess-3.0.0.iml" filepath="$PROJECT_DIR$/.idea/modules/childprocess-3.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/method_source-1.0.0.iml" filepath="$PROJECT_DIR$/.idea/modules/method_source-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mini_mime-1.0.2.iml" filepath="$PROJECT_DIR$/.idea/modules/mini_mime-1.0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mini_portile2-2.4.0.iml" filepath="$PROJECT_DIR$/.idea/modules/mini_portile2-2.4.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/public_suffix-4.0.5.iml" filepath="$PROJECT_DIR$/.idea/modules/public_suffix-4.0.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/regexp_parser-1.7.1.iml" filepath="$PROJECT_DIR$/.idea/modules/regexp_parser-1.7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-webdriver-3.142.7.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-webdriver-3.142.7.iml" />
+    </modules>
+  </component>
+</project>
